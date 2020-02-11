@@ -32,6 +32,4 @@ By completing this project you'll go through the whole GitHub process that you a
 4. Push it back up to your personal GitHub
 5. Create a _Pull Request_ (PR) from your fork
 
-![How to create a Pull Request from your forked branch](create_PR.png)
-
 By creating the PR, you are asking Ricky and Liliana to merge your addition into the repository hosted on Ricky's Github
